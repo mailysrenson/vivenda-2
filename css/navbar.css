@@ -1,0 +1,17 @@
+.logo-bar {
+  text-align: center;
+}
+
+.nav-menu > a {
+  text-align: left;
+}
+
+.menu-link {
+  color: rgb(43, 39, 39);
+
+}
+
+.menu-link:hover {
+  color: rgb(29, 26, 26);
+  text-decoration: none;
+}
